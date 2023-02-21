@@ -17,3 +17,4 @@
 - Flakeflagger: Predicting flakiness without rerunning tests.Alshammari, Abdulrahman, et al. ICSE 2021. [Github](https://github.com/AlshammariA/FlakeFlagger) [Paper](https://www.jonbell.net/preprint/icse21-flakeflagger.pdf)
 - What is the Vocabulary of Flaky Tests? Pinto, Gustavo, et al. MSR 2020. [Paper](http://gustavopinto.org/lost+found/msr2020.pdf)
 - Empirically Detecting False Test Alarms Using Association Rules. Kim Herzig,et al. ICSE 2015. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7202948)
+- Know Your Neighbor: Fast Static Prediction of Test Flakiness. (FLAST) Bertolino et al. ICSE 2020. [Github](https://github.com/FlakinessStaticDetection/FLAST) [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9437181)
