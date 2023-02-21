@@ -7,6 +7,7 @@
 - iDFlakies: A Framework for Detecting and Partially Classifying Flaky Tests. Lam, Wing, et al. ICST 2019. [Github](https://github.com/idflakies/iDFlakies) [Paper](https://mir.cs.illinois.edu/winglam/publications/2019/LamETAL19iDFlakies.pdf)
 - DeFlaker: Automatically Detecting Flaky Tests. Bell, Jonathan, et al. ICSE 2018. [Paper](https://dl.acm.org/doi/pdf/10.1145/3180155.3180164)
 - NonDex: A tool for detecting and debugging wrong assumptions on Java API specifications. Gyori, Alex, et al. FSE 2016. [Github](https://github.com/TestingResearchIllinois/NonDex) [Paper](https://www.cs.cornell.edu/~legunsen/pubs/GyoriETAL16NonDexToolDemo.pdf)
+- Understanding Reproducibility and Characteristics of Flaky Tests Through Test Reruns in Java Projects. Lam, Wing, et al. ISSRE 2020. [Paper](https://mir.cs.illinois.edu/winglam/publications/2020/LamETAL20ISSRE.pdf)
 
 ### Mutation testing for flakiness injection
 - Flakime: Laboratory-controlled test flakiness impact assessment. A case study on mutation testing and program repair. Cordy, Maxime, et al. ICSE 2022 [Github](https://github.com/serval-uni-lu/flakime) [Paper](https://mpapad.github.io//publications/pdfs/ICSE22___Flakime.pdf)
