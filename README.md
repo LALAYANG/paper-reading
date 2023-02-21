@@ -14,3 +14,4 @@
 - Flakeflagger: Predicting flakiness without rerunning tests.Alshammari, Abdulrahman, et al. ICSE 2021. [Github](https://github.com/AlshammariA/FlakeFlagger) [Paper](https://www.jonbell.net/preprint/icse21-flakeflagger.pdf)
 - What is the Vocabulary of Flaky Tests? Pinto, Gustavo, et al. MSR 2020. [Paper](http://gustavopinto.org/lost+found/msr2020.pdf)
 - Flakify: A black-box, language model-based predictor for flaky tests. Fatima, S., et al. TSE 2022. [Paper](https://arxiv.org/pdf/2112.12331.pdf)
+- Empirically Detecting False Test Alarms Using Association Rules. Kim Herzig,et al. ICSE 2015. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7202948)
