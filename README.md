@@ -20,7 +20,7 @@
 - Know Your Neighbor: Fast Static Prediction of Test Flakiness. (FLAST). Bertolino et al. ICSE 2020. [Github](https://github.com/FlakinessStaticDetection/FLAST) [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9437181)
 
 
-## (Microservices testing)
+## Microservices testing
 
 ### CI tests
 - Taming Google-Scale Continuous Testing. Memon, Atif, et al. ICSE-SEIP 2017. [Paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45861.pdf)
@@ -30,3 +30,6 @@
 
 ### REST API test
 - Automated Test Generation for REST APIs: No Time to Rest Yet. Kim, Myeongsoo, et al. ISSTA 2022. [Paper](https://arxiv.org/pdf/2204.08348.pdf)
+
+### Others
+- On Learning Meaningful Assert Statements for Unit Test Cases. Watson, Cody, et al. ICSE 2020. [Paper](https://arxiv.org/pdf/2002.05800.pdf)
