@@ -18,3 +18,9 @@
 - What is the Vocabulary of Flaky Tests? Pinto, Gustavo, et al. MSR 2020. [Paper](http://gustavopinto.org/lost+found/msr2020.pdf)
 - Empirically Detecting False Test Alarms Using Association Rules. Kim Herzig,et al. ICSE 2015. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7202948)
 - Know Your Neighbor: Fast Static Prediction of Test Flakiness. (FLAST). Bertolino et al. ICSE 2020. [Github](https://github.com/FlakinessStaticDetection/FLAST) [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9437181)
+
+
+## Microservices testing
+
+### CI tests
+- Taming Google-Scale Continuous Testing. Memon, Atif, et al. ICSE-SEIP 2017. [Paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45861.pdf)
