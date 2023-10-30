@@ -10,6 +10,8 @@ Wing Lam, Reed Oei, August Shi, Darko Marinov, Tao Xie. ICST 2019.
 Chengpeng Li, Mahdi Khosravi, Wing Lam, August Shi. ISSTA 2023.
 - **Evolution-Aware Detection of Order-Dependent Flaky Tests.** [pdf](https://utexas.app.box.com/v/august-shi-ICSE2022) \
 Chengpeng Li, August Shi. ISSTA 2022.
+- **Practical Test Dependency Detection.** [pdf](https://jonbell.net/publications/pradet) \
+Alessio Gambi, Jonathan Bell, Andreas Zeller. ICST 2018.
 
 ### Flaky test prediction based on ML
 - **FlakeFlagger: Predicting Flakiness Without Rerunning Tests.** [pdf](https://jonbell.net/publications/flakeflagger) [code](https://github.com/AlshammariA/FlakeFlagger) \
