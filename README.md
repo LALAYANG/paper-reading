@@ -29,6 +29,8 @@ A. Bertolino. MSR 2020.
 August Shi, Wing Lam, Reed Oei, Tao Xie, and Darko Marinov. FSE 2019.
 - **Repairing Order-Dependent Flaky Tests via Test Generation.** [pdf](https://utexas.app.box.com/v/august-shi-ICSE2022) \
 Chengpeng Li, Chenguang Zhu, Wenxi Wang, August Shi. ICSE 2022.
+- **FlakeSync: Automatically Repairing Async Flaky Tests** [pdf][TBD]  
+Shanto Rahman, August Shi. ICSE 2024.
 
 ### Flaky mutants
 - **FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment.** [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9794060) [code](https://github.com/serval-uni-lu/flakime)\
@@ -42,3 +44,5 @@ Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. ICS
 ### Prompt engineering
 - **Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning.** [pdf](https://people.ece.ubc.ca/amesbah/resources/papers/cedar-icse23.pdf) \
 Noor Nashid, Mifta Sintaha, and Ali Mesbah. ICSE 2023.
+### Benchmarks
+/*- **EvalPlus** https://arxiv.org/pdf/2305.01210.pdf*/
