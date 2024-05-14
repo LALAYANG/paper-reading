@@ -56,4 +56,13 @@ bib
   journal   = {arXiv preprint},
 }
 ```
+- **CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution**. ICML2024. [pdf](https://arxiv.org/pdf/2401.03065) [code](https://github.com/facebookresearch/cruxeval) 
+```
+@article{gu2024cruxeval,
+  title={Cruxeval: A benchmark for code reasoning, understanding and execution},
+  author={Gu, Alex and Rozi{\`e}re, Baptiste and Leather, Hugh and Solar-Lezama, Armando and Synnaeve, Gabriel and Wang, Sida I},
+  journal={arXiv preprint arXiv:2401.03065},
+  year={2024}
+}
+```
 
