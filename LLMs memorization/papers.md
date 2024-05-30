@@ -66,3 +66,7 @@ bib
 }
 ```
 
+## Metrics
+- No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation (manual user study)
+- https://arxiv.org/pdf/2403.16898
+- https://arxiv.org/pdf/2311.11690
