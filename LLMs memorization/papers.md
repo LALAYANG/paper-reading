@@ -65,6 +65,21 @@ bib
   year={2024}
 }
 ```
+## Understanding how models reason about code
+
+- **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code**. ASE 2021. [pdf](https://software-lab.org/publications/ase2021.pdf)
+```
+@inproceedings{paltenghi2021thinking,
+  title={Thinking like a developer? comparing the attention of humans with neural models of code},
+  author={Paltenghi, Matteo and Pradel, Michael},
+  booktitle={2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={867--879},
+  year={2021},
+  organization={IEEE}
+}
+```
+  
+
 
 ## Metrics
 - No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation (manual user study)
