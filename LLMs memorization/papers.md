@@ -83,6 +83,11 @@ Summary:
 - Task: method summarization - original method name prediction.
 - Models: two neural models
 - Two kinds of attention weights: regular attention (showing what tokens the model focuses on) and copy attention (showing what tokens the model considers to copy verbatim into the output)
+- RQ1: Are the intrinsic attention weights of neural models correlated with human attention?
+  1) Neural models and humans often agree about what tokens to copy verbatim from the input to the output, but less on what other tokens to attend to.
+- RQ2: How does the distribution of attention across tokens differ between models and humans?
+- RQ3: Do neural models and humans attend to the same kinds of tokens, e.g., identifiers, separators, operators, and keywords?
+- RQ4: Do learned models and humans struggle with the same kinds of examples?
   
 
 
