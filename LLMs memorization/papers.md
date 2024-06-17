@@ -78,6 +78,11 @@ bib
   organization={IEEE}
 }
 ```
+Summary:
+- We compare the attention weights of neural models with the attention that humans pay when reasoning about source code examples.
+- Task: method summarization - original method name prediction.
+- Models: two neural models
+- Two kinds of attention weights: regular attention (showing what tokens the model focuses on) and copy attention (showing what tokens the model considers to copy verbatim into the output)
   
 
 
