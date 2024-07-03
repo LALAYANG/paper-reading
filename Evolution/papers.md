@@ -62,6 +62,9 @@ It's possible to apply global search.
 #### Search-based software maintenance
 [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1602376)
 
+#### A hierarchical model for object-oriented design quality assessment.
+[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=979986)
+
 ## Readability
 
 #### A Metric for Software Readability
