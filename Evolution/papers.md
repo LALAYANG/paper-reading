@@ -1,0 +1,55 @@
+## Evolutionary approaches
+
+#### Sapienz: Multi-objective Automated Testing for Android Applications
+
+[paper](https://dl.acm.org/doi/pdf/10.1145/2931037.2931054)  
+
+Summary:
+- We introduce Sapienz, the first approach offering multi- objective automated Android app exploratory testing that seeks to maximise code coverage and fault revelation, while minimising the length of fault-revealing test sequences.
+- Our goal is to produce an entirely automated approach that max- imises fault revelation with short test sequences. The key insight in our approach is that minimising test sequence length and maximising other objectives can be combined in a Pareto-optimal multi-objective search-based approach to Android testing. 
+- Three objectives: code coverage, sequence length and the number of crashes found.
+
+#### Analysing the fitness landscape of search-based software testing problems
+[paper](https://link.springer.com/content/pdf/10.1007/s10515-016-0197-7.pdf)
+
+#### Graph-Based Seed Object Synthesis for Search-Based Unit Testing
+[paper](https://dl.acm.org/doi/pdf/10.1145/3468264.3468619)
+
+
+## Readability
+
+#### A Metric for Software Readability
+[paper](https://web.eecs.umich.edu/~weimerw/p/weimer-issta2008-readability.pdf)
+
+#### A Simpler Model of Software Readability
+[paper](https://dl.acm.org/doi/pdf/10.1145/1985441.1985454)
+
+#### On the Naturalness of Software
+[paper](https://dl.acm.org/doi/pdf/10.5555/2337223.2337322)
+
+#### Automatically Assessing Code Understandability: How Far Are We?
+[paper](https://www.cs.wm.edu/~denys/pubs/ASE'17-Readability.pdf)
+
+#### No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation.
+[paper](https://arxiv.org/pdf/2305.04207)
+
+
+## Metrics
+
+#### CodeBLEU: a Method for Automatic Evaluation of Code Synthesis 
+[paper](https://arxiv.org/pdf/2009.10297)
+
+#### Cognitive Complexity
+[technical report](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sonarsource.com/docs/CognitiveComplexity.pdf&ved=2ahUKEwjD3uLctIuHAxWRv4kEHb80DS0QFnoECDkQAQ&usg=AOvVaw0CP7Ad2hDUAXwwKJhH0McN)
+[two-pages paper](https://dl.acm.org/doi/pdf/10.1145/3194164.3194186)
+
+#### A Complexity Measure
+[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1702388)
+
+
+
+
+## Statistical Analysis
+
+#### A Practical Guide for Using Statistical Tests to Assess Randomized Algorithms in Software Engineering
+[paper](https://dl.acm.org/doi/pdf/10.1145/1985793.1985795)
