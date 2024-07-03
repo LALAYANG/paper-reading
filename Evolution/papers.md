@@ -21,6 +21,17 @@ Summary:
 #### Pareto Optimal Search Based Refactoring at the Design Level
 [paper](https://dl.acm.org/doi/pdf/10.1145/1276958.1277176)
 
+**Two categories of search based refactoring and transformation:**
+- direct：
+In the direct approach, the program is directly optimized. That is, the possible variants of the program form the search space of the problem. Using this approach the transforma- tion/refactoring steps are applied directly to the program, denoting moves from the current program to a near neigh- bour in the search space. 
+
+- indirect:
+In the indirect approach, the program is indirectly opti- mized, via the optimization of the sequence of transforma- tions to apply to the program. In this approach the program is optimized by a sequence of transformations and it is the set of possible sequences of transformations that form the search space.
+
+Fitness is computed by applying the sequence of transformations to the program in question and measuring the improvement in the metrics of interest.
+
+#### Search-based software maintenance
+[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1602376)
 
 ## Readability
 
