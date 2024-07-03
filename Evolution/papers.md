@@ -15,6 +15,9 @@ Summary:
 #### Graph-Based Seed Object Synthesis for Search-Based Unit Testing
 [paper](https://dl.acm.org/doi/pdf/10.1145/3468264.3468619)
 
+#### Search-Based Energy Testing of Android
+[paper](https://dl.acm.org/doi/pdf/10.1109/ICSE.2019.00115)
+
 
 ## Readability
 
