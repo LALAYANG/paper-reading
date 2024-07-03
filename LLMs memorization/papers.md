@@ -127,6 +127,8 @@ can LLMs understand dataflow?
 Instead of taking syntactic-level structure of code like abstract syntax tree (AST), we leverage semantic-level information of code, i.e. data flow, for pre- training. Data flow is a graph, in which nodes represent variables and edges represent the relation of “where-the-value-comes-from” between variables.
 Def-Use chains
 ```
+- **Can Large Language Models Reason about Program Invariants?** ICML2023. [pdf](https://openreview.net/pdf?id=mXv2aVqUGG)
+
 
 ## Metrics
 - No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation (manual user study)
