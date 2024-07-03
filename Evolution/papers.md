@@ -1,4 +1,4 @@
-## Evolutionary approaches
+## Search-based approaches
 
 #### Sapienz: Multi-objective Automated Testing for Android Applications
 
@@ -18,8 +18,31 @@ Summary:
 #### Search-Based Energy Testing of Android
 [paper](https://dl.acm.org/doi/pdf/10.1109/ICSE.2019.00115)
 
+================================================================
+
 #### Pareto Optimal Search Based Refactoring at the Design Level
 [paper](https://dl.acm.org/doi/pdf/10.1145/1276958.1277176)
+
+#### The Weights Can Be Harmful: Pareto Search versus Weighted Search in Multi-objective Search-based Software Engineering
+[paper](https://dl.acm.org/doi/pdf/10.1145/3514233)
+
+#### Behind the Intents: An In-depth Empirical Study on Software Refactoring in Modern Code Review
+[paper](https://dl.acm.org/doi/pdf/10.1145/3379597.3387475)
+
+#### Improving Readability of Scratch Programs with Search-based Refactoring
+[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9610643)
+
+#### Intelligent Change Operators for Multi-Objective Refactoring
+[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678519)
+
+#### Explainable Search-Based Refactoring
+[paper](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/170141/TSE_Explainability__Copy_%20%281%29.pdf?sequence=1)
+
+#### How Does Refactoring Impact Security When Improving Quality? A Security Aware Refactoring
+[paper](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/155871/RefactoringSecurityQMOOD__ICSE____Copy_.pdf)
+
+#### Many-Objective Software Remodularization Using NSGA-III
+[paper](https://dl.acm.org/doi/pdf/10.1145/2729974)
 
 **Two categories of search based refactoring and transformation:**
 - direct：
