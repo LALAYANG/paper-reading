@@ -18,6 +18,9 @@ Summary:
 #### Search-Based Energy Testing of Android
 [paper](https://dl.acm.org/doi/pdf/10.1109/ICSE.2019.00115)
 
+#### Pareto Optimal Search Based Refactoring at the Design Level
+[paper](https://dl.acm.org/doi/pdf/10.1145/1276958.1277176)
+
 
 ## Readability
 
