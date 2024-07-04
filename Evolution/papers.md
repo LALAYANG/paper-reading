@@ -128,6 +128,8 @@ Summary:
 #### Search-based Automatic Repair for Fairness and Accuracy in Decision-making Software
 [paper](https://discovery.ucl.ac.uk/id/eprint/10185565/1/s10664-023-10419-3.pdf)
 
+#### Learning a Metric for Code Readability
+[paper](https://web.eecs.umich.edu/~weimerw/p/weimer-tse2010-readability-preprint.pdf)
 
 ## Metrics
 
