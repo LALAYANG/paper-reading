@@ -108,6 +108,9 @@ Summary:
 #### No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation.
 [paper](https://arxiv.org/pdf/2305.04207)
 
+#### Search-based Automatic Repair for Fairness and Accuracy in Decision-making Software
+[paper](https://discovery.ucl.ac.uk/id/eprint/10185565/1/s10664-023-10419-3.pdf)
+
 
 ## Metrics
 
