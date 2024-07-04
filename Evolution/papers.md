@@ -86,6 +86,14 @@ Fitness Functions same as above [A hierarchical...]
 #### Balance
 [paper](https://mir.cs.illinois.edu/marinov/publications/XiaETAL23FASER.pdf)
 
+#### Operator-Based and Random Mutant Selection: Better Together
+[paper](http://lingming.cs.illinois.edu/publications/ase2013.pdf)
+
+#### Faster Mutation Testing Inspired by Test Prioritization and Reduction
+[paper](http://lingming.cs.illinois.edu/publications/issta2013a.pdf)
+
+
+
 Summary:
 - We introduce Sapienz, the first approach offering multi- objective automated Android app exploratory testing that seeks to maximise code coverage and fault revelation, while minimising the length of fault-revealing test sequences.
 - Our goal is to produce an entirely automated approach that max- imises fault revelation with short test sequences. The key insight in our approach is that minimising test sequence length and maximising other objectives can be combined in a Pareto-optimal multi-objective search-based approach to Android testing. 
