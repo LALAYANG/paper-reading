@@ -36,7 +36,18 @@ Fitness is computed by applying the sequence of transformations to the program i
 
 It's possible to apply global search.
 
+Summary:
+- While manually determining useful refactorings can be chal- lenging, search based techniques can automatically discover useful refactorings. Current search based refactoring approaches require metrics to be combined in a complex fash- ion, and produce a single sequence of refactorings.
+- In this paper:
+we show how Pareto optimality allows users to pick from different optimal sequences of refactorings, according to their preferences; we show that Pareto optimality applies equally to sub-sequences of refactorings, allowing users to pick refactoring sequences based on the resources available to implement those refactorings; we show how Pareto op- timality can be used to compare different fitness functions, and to combine results from different fitness functions.
+- Fitness Function:
 - A + B; A * B; tuple<A,B>
+
+#### Search-based software maintenance
+[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1602376)
+
+Summary:
+- 
 
 #### The Weights Can Be Harmful: Pareto Search versus Weighted Search in Multi-objective Search-based Software Engineering
 [paper](https://dl.acm.org/doi/pdf/10.1145/3514233)
@@ -59,8 +70,7 @@ It's possible to apply global search.
 #### Many-Objective Software Remodularization Using NSGA-III
 [paper](https://dl.acm.org/doi/pdf/10.1145/2729974)
 
-#### Search-based software maintenance
-[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1602376)
+
 
 #### A hierarchical model for object-oriented design quality assessment.
 [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=979986)
