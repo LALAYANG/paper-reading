@@ -74,8 +74,17 @@ Fitness Functions same as above [A hierarchical...]
 [paper](https://dl.acm.org/doi/pdf/10.1145/2729974)
 
 #### Sapienz: Multi-objective Automated Testing for Android Applications
-
 [paper](https://dl.acm.org/doi/pdf/10.1145/2931037.2931054)  
+
+#### Search-Based Software Engineering: Trends, Techniques and Applications
+[paper](https://dl.acm.org/doi/pdf/10.1145/2379776.2379787)
+11.9. Multiobjective Optimization
+
+#### The weighted sum method for multi-objective optimization: new insights
+[paper](https://link.springer.com/content/pdf/10.1007/s00158-009-0460-7.pdf)
+
+#### Balance
+[paper](https://mir.cs.illinois.edu/marinov/publications/XiaETAL23FASER.pdf)
 
 Summary:
 - We introduce Sapienz, the first approach offering multi- objective automated Android app exploratory testing that seeks to maximise code coverage and fault revelation, while minimising the length of fault-revealing test sequences.
