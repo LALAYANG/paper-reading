@@ -105,6 +105,9 @@ Summary:
 #### - Search-Based Energy Testing of Android
 [paper](https://dl.acm.org/doi/pdf/10.1109/ICSE.2019.00115)
 
+#### - DeGPT: Optimizing Decompiler Output with LLM
+[paper](https://www.ndss-symposium.org/wp-content/uploads/2024-401-paper.pdf)
+
 ## Readability
 
 #### - A Metric for Software Readability
