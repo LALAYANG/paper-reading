@@ -137,6 +137,8 @@ Summary:
 - Code Bloat. One of the most intuitive indicators of code readability is the change in the number of lines of code. We assume that the readability of the source code is relatively high, and recovering the source code is a primary goal of decompilation. Therefore, introducing code bloat, the rate of expansion in the number of code lines, as a metric is a wise choice.
 - Syntactic Completeness & Function Completeness. Syntactic completeness is a foundational metric for the legitimacy of code syntax and is widely adopted in the field. This metric measures the proportion of syntactically complete code relative to the total codebase, with the help of tree-sitter, which can determine whether a piece of code or a function has errors. Additionally, syntactic completeness underpins compilability; code that is not syntactically complete is inherently uncompileable. Function completeness refers to whether the decompiled code includes all the functions from the source code.
 
+#### R2I: A Relative Readability Metric for Decompiled Code
+
 
 ## Other Metrics
 
