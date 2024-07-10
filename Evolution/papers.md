@@ -128,7 +128,7 @@ Summary:
 #### - Learning a Metric for Code Readability
 [paper](https://web.eecs.umich.edu/~weimerw/p/weimer-tse2010-readability-preprint.pdf)
 
-### WaDec: Decompile WebAssembly Using Large Language Model
+#### WaDec: Decompile WebAssembly Using Large Language Model
 [paper](https://arxiv.org/pdf/2406.11346)
 
 ## Other Metrics
