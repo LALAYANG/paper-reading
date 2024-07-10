@@ -140,6 +140,9 @@ Summary:
 #### R2I: A Relative Readability Metric for Decompiled Code
 
 
+#### An Empirical Study of the Relationships between Code Readability and Software Complexity.
+[paper](https://arxiv.org/pdf/1909.01760)
+
 ## Other Metrics
 
 #### - CodeBLEU: a Method for Automatic Evaluation of Code Synthesis 
