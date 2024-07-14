@@ -143,6 +143,9 @@ Summary:
 #### An Empirical Study of the Relationships between Code Readability and Software Complexity.
 [paper](https://arxiv.org/pdf/1909.01760)
 
+#### Modeling Readability to Improve Unit Tests
+[paper](https://web.eecs.umich.edu/~weimerw/p/p107-daka.pdf)
+
 ## Other Metrics
 
 #### - CodeBLEU: a Method for Automatic Evaluation of Code Synthesis 
