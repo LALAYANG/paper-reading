@@ -108,6 +108,9 @@ Summary:
 #### - DeGPT: Optimizing Decompiler Output with LLM
 [paper](https://www.ndss-symposium.org/wp-content/uploads/2024-401-paper.pdf)
 
+#### - Pareto Efficient Multi-Objective Test Case Selection
+[paper](http://web4.cs.ucl.ac.uk/staff/S.Yoo/papers/Yoo2007dq.pdf)
+
 ## Readability
 
 #### - A Metric for Software Readability
