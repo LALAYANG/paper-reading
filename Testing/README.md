@@ -40,9 +40,9 @@ Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. ICS
 
 ## REST API testing
 
-## LLM
+<!-- ## LLM
 ### Prompt engineering
 - **Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning.** [pdf](https://people.ece.ubc.ca/amesbah/resources/papers/cedar-icse23.pdf) \
 Noor Nashid, Mifta Sintaha, and Ali Mesbah. ICSE 2023.
 ### Benchmarks
-/*- **EvalPlus** https://arxiv.org/pdf/2305.01210.pdf*/
+/*- **EvalPlus** https://arxiv.org/pdf/2305.01210.pdf*/ -->
